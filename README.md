@@ -1,2 +1,1 @@
-# super-karma
-Feek free to type
+open-vpn
